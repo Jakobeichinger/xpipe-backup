@@ -1,0 +1,10 @@
+{
+  "uuid" : "b0e30d74-e66b-4644-b19e-6f444877388a",
+  "name" : "UDM-Pro Root User",
+  "categoryUuid" : "e784de4e-abea-4cb8-a839-fc557cd23097",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
