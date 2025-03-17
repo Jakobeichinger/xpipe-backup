@@ -1,0 +1,10 @@
+{
+  "uuid" : "5b498cc6-9442-4365-bc89-649cd7c4354c",
+  "name" : "AD-Domainadmin",
+  "categoryUuid" : "e784de4e-abea-4cb8-a839-fc557cd23097",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
