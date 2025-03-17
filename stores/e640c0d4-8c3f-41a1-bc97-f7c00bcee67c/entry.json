@@ -1,0 +1,10 @@
+{
+  "uuid" : "e640c0d4-8c3f-41a1-bc97-f7c00bcee67c",
+  "name" : "Radius-Jakob@192.168.1.1:1194",
+  "categoryUuid" : "69aa5040-28dc-451e-b4ff-1192ce5e1e3c",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
