@@ -1,0 +1,10 @@
+{
+  "uuid" : "ce25bc0e-1b7e-4a01-9bec-c2a902e9c9f4",
+  "name" : "Unifi Devices SSH Agent Testing Stage",
+  "categoryUuid" : "e784de4e-abea-4cb8-a839-fc557cd23097",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
