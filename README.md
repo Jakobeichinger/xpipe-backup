@@ -7,6 +7,9 @@ You can sync with this repository in all XPipe application instances the same wa
 ## Category list
 
 - **Connections**
+  - [**Eichingernetz**](categories/e6b382aa-db91-494c-a2fc-78c5492a7320)
+    - [**Unifi Devices**](categories/25b7b2e9-a86d-48f5-8b4b-013660a14bfe)
+  - [**Default**](categories/97458c07-75c0-4f9d-a06e-92d8cdf67c40)
 - **Scripts**
   - [**Custom**](categories/d3496db5-b709-41f9-abc0-ee0a660fbab9)
 - **Identities**
@@ -17,6 +20,18 @@ You can sync with this repository in all XPipe application instances the same wa
   - [**LDAP**](categories/440a487a-b950-4bc8-ac79-d2473af92f1d)
 
 ## Connection list
+
+**All connections / Eichingernetz**
+
+empty
+
+**All connections / Eichingernetz / Unifi Devices**
+
+- [**UDM-Pro Gateway ssh**](stores/7c2b6e53-cccf-4b63-a7d3-5e007d4bd853)
+
+**All connections / Default**
+
+- [**Windowsserver-HP**](stores/eb186e06-f3db-495d-97ee-ccfd327a148f)
 
 **All scripts / Custom**
 
