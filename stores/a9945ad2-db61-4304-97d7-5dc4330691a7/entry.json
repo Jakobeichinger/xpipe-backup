@@ -1,0 +1,10 @@
+{
+  "uuid" : "a9945ad2-db61-4304-97d7-5dc4330691a7",
+  "name" : "My scripts",
+  "categoryUuid" : "d3496db5-b709-41f9-abc0-ee0a660fbab9",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
