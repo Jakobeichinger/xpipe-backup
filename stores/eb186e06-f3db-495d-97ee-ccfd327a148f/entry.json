@@ -1,0 +1,10 @@
+{
+  "uuid" : "eb186e06-f3db-495d-97ee-ccfd327a148f",
+  "name" : "Windowsserver-HP",
+  "categoryUuid" : "97458c07-75c0-4f9d-a06e-92d8cdf67c40",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
