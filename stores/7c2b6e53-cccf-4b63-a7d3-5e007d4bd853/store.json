@@ -1,0 +1,9 @@
+{
+  "secret" : {
+    "type" : "vault",
+    "encryptedValue" : "xByNHrUGF+l3a-dX8iLRBzcEeR9qi7GaOTBqokluF9DeqP2IDiEqCGZMASS+3r+aPjVZtKxQ63b3ke35gSiudVqXU1VZWbVIog2isTQPwM7siU8EKFjcxWR7HO6xNQgr15D5vG3lcZyB953m0+d1xg4aoF-XzsRfFq+2zjHBCb4kAyxcCSsIrI8+F9gxaluP7vMU8mHQTFqocYa6D9c8q2HJ8BUaVNjyi+5dS7DROuT2KVKtm-TGCRPQneulBwKa6RYX695k1FqTU3s4NIqF5V8EnJO-AWi-hCEDYc03IOrWRCmY0PKQ33ZNMtECoSMj3rDlEcrY2qPDvzM03C08tAUIE-zpV-pk8lmkLUxBr3X-v0FMsYUDJpHGkuTyNKso-YIPZZFurMmt+BlrYDzuDqkPvn4aIQngkwKsH2KU8e9v+ulU6c1uFrlXf1CP7rGXgPwiaWM3L8zsXYxHdIQAYG7frje7gTUEEHaT04sXZ8-7INA="
+  },
+  "encryptedToken" : {
+    "token" : "o4bebtvABm1-36W95r5qnO1ETOSM6J2PXPu5Xu8AHy2P"
+  }
+}

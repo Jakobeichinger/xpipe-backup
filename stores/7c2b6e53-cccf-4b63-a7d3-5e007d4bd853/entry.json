@@ -1,0 +1,10 @@
+{
+  "uuid" : "7c2b6e53-cccf-4b63-a7d3-5e007d4bd853",
+  "name" : "UDM-Pro Gateway ssh",
+  "categoryUuid" : "25b7b2e9-a86d-48f5-8b4b-013660a14bfe",
+  "color" : null,
+  "icon" : null,
+  "configuration" : {
+    "deletable" : true
+  }
+}
